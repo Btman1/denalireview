@@ -1,5 +1,5 @@
 {
-    "url": "http://localhost:4567",
+    "url": "http://denalireview.cpmentoring.org",
     "secret": "b84740b9-2a24-43fe-a1da-fd66c83dd4bd",
     "database": "mongo",
     "mongo": {
@@ -10,5 +10,5 @@
         "database": "nodebb",
         "uri": ""
     },
-    "port": "4567"
+    "port": "80"
 }
