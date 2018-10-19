@@ -1,5 +1,5 @@
 {
-    "url": "http://denalireview.cpmentoring.org",
+    "url": "http://localhost:4567",
     "secret": "b84740b9-2a24-43fe-a1da-fd66c83dd4bd",
     "database": "mongo",
     "mongo": {
