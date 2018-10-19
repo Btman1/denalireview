@@ -12,5 +12,8 @@
         "password": "bbfun@denali",
         "database": "nodebb",
         "uri": ""
-    }
+    },
+    "socket.io": {
+    "origins": "http://denalireview.cpmentoring.org:*"
+  }
 }
