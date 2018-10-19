@@ -1,6 +1,9 @@
 {
-    "url": "http://localhost:4567",
+    "url": "http://denalireview.cpmontring.org",
     "secret": "b84740b9-2a24-43fe-a1da-fd66c83dd4bd",
+     "bindaddress": "localhost",
+    "port": "4567",
+    "use_port":false,
     "database": "mongo",
     "mongo": {
         "host": "127.0.0.1",
@@ -9,6 +12,5 @@
         "password": "bbfun@denali",
         "database": "nodebb",
         "uri": ""
-    },
-    "port": "4567"
+    }
 }
